@@ -1,0 +1,97 @@
+[{
+    "name": "Tsunade Senju",
+    "position": "Hokage",
+    "birthday": "08-02-1952" ,
+    "email": "slugprincess@hokage.gov",
+    "image": "https://static.wikia.nocookie.net/naruto/images/e/e6/Tsunade_Infobox.png/revision/latest?cb=20180316171919"
+},{
+    "name": "Kakashi Hatake",
+    "position": "Jonin",
+    "birthday": "09-15-1985" ,
+    "email": "whitefang@gmail.com",
+    "image": "https://static.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png/revision/latest?cb=20170628120149"
+}, {
+    "name": "Might Guy",
+    "position": "Jonin",
+    "birthday": "01-01-1985",
+    "email": "eternalyouth01@yahoo.com" ,
+    "image": "https://static.wikia.nocookie.net/naruto/images/3/31/Might_Guy.png/revision/latest?cb=20150401084456"
+}, {
+    "name": "Hiashi Hyuga",
+    "position": "Jonin",
+    "birthday": "01-08-1979",
+    "email": "mainbranchhead@hyuga.com",
+    "image": "https://static.wikia.nocookie.net/naruto/images/e/ee/Hiashi_Hyuga.png/revision/latest?cb=20150109142633"
+},{
+    "name": "Asuma Sarutobi",
+    "position": "Jonin",
+    "birthday": "10-18-1987",
+    "email": "smokeanddaggers@gmail.com",
+    "image": "https://static.wikia.nocookie.net/naruto/images/7/7c/Asuma.png/revision/latest?cb=20150822043018"
+},{
+    "name": "Itachi Uchiha",
+    "position": "Anbu Black Ops",
+    "birthday": "06-09-1994",
+    "email": "uchihai@hokage.gov",
+    "image": "https://static.wikia.nocookie.net/naruto/images/b/bb/Itachi.png/revision/latest/scale-to-width-down/300?cb=20160125182202" 
+}, {
+    "name": "Yamato Tenzo",
+    "position": "Anbu Black Ops",
+    "birthday": "08-10-1990",
+    "email": "tenzoy@hokage.gov",
+    "image": "https://static.wikia.nocookie.net/naruto/images/f/f7/Yamato_newshot.png/revision/latest?cb=20180920062234" 
+},{
+    "name": "Sai Root",
+    "position": "Anbu Black Ops",
+    "birthday": "11-25-2003",
+    "email": "s152452@root.gov",
+    "image": "https://static.wikia.nocookie.net/naruto/images/0/07/Sai_Infobox.png/revision/latest?cb=20180314110836"
+}, {
+    "name": "Iruka Umino",
+    "position": "Chunin",
+    "birthday": "05-26-1998",
+    "email": "irukasensi@academy.net",
+    "image": "https://static.wikia.nocookie.net/naruto/images/b/bc/Iruka.png/revision/latest?cb=20161013212102" 
+}, {
+    "name": "Shikamaru Nara",
+    "position": "Chunin",
+    "birthday": "07-15-2004",
+    "email": "cloudwatcher@gmail.com",
+    "image": "https://static.wikia.nocookie.net/naruto/images/9/9a/Shikamaru_Nara.png/revision/latest?cb=20180701024126"
+}, {
+    "name": "Rock Lee",
+    "position": "Chunin",
+    "birthday": "11-27-2002",
+    "email": "bushybrows@yahoo.com",
+    "image": "https://static.wikia.nocookie.net/naruto/images/7/7d/Lee_timeskip.png/revision/latest/scale-to-width-down/300?cb=20181229065529"
+},{
+    "name": "Hinata Hyuga",
+    "position": "Chunin",
+    "birthday": "12-27-2004",
+    "email": "foxlover@hyuga.com",
+    "image": "https://static.wikia.nocookie.net/naruto/images/7/79/Hinata_Part_II.png/revision/latest/scale-to-width-down/300?cb=20160916060747"
+},{
+    "name": "Sakura Haruno",
+    "position": "Chunin",
+    "birthday": "03-28-2004",
+    "email": "chanada@hotmail.com",
+    "image": "https://static.wikia.nocookie.net/naruto/images/b/ba/Sakurap2.png/revision/latest?cb=20170726101516"
+},{
+    "name": "Naruto",
+    "position": "Genin",
+    "birthday": "10-10-2004",
+    "email": "kyuubi@gmail.com",
+    "image": "https://static.wikia.nocookie.net/naruto/images/f/fa/Naruto_Uzumaki_Part_2_Thumbnail.png/revision/latest?cb=20200606071158"
+},{
+    "name": "Sasuke Uchiha",
+    "position": "Genin",
+    "birthday": "07-23-2004",
+    "email": "avenger@uchiha.com",
+    "image": "https://static.wikia.nocookie.net/naruto/images/1/13/Sasuke_Part_2.png/revision/latest?cb=20170716092003"
+}, {
+    "name": "Konahamaru Sarutobi",
+    "position": "Genin",
+    "birthday": "12-30-2009",
+    "email": "bluescarf@gmail.com",
+    "image": "https://static.wikia.nocookie.net/naruto/images/3/37/Konohamaru_Sarutobi.png/revision/latest?cb=20170624192530"
+}]
