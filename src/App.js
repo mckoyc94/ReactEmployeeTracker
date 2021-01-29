@@ -1,8 +1,9 @@
-import './App.css';
+import React from 'react'
+import Directory from "./components/Directory";
 
 function App() {
   return (
-    <h1>New App</h1>
+    <Directory />
   );
 }
 
