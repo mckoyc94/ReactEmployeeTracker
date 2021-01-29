@@ -4,9 +4,12 @@ import Jumbotron from "./Jumbotron";
 import Search from "./Search";
 
 const Directory = () => {
-
+    
     return(
-        <Jumbotron />
+        <>
+            <Jumbotron />
+            <Search />
+        </>
     )
 }
 
