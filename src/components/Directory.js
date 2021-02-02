@@ -42,7 +42,7 @@ const Directory = () => {
                     <thead>
                         <tr>
                             <th>Image</th>
-                            <th onClick = {() => alphabetize()}>Name</th>
+                            <th onClick = {alphabetize()}>Name</th>
                             <th>Position</th>
                             <th>Email</th>
                             <th>Birthday</th>
