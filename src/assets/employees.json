@@ -6,7 +6,7 @@
     "position": "Hokage",
     "birthday": "08-02-1952" ,
     "email": "slugprincess@hokage.gov",
-    "image": "./images/Tsunade.png"
+    "image": "/Tsunade.png"
 },{
     "name":{
         "first": "Kakashi",

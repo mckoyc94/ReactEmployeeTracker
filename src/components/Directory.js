@@ -1,26 +1,24 @@
-// import  from "react";
+// Imports for Directory
 import React, { useEffect, useState } from "react";
 import Jumbotron from "./Jumbotron";
 import Search from "./Search";
 import Employee from "./Employee";
 import Ninja from "../assets/employees.json"
 
+// Component
 const Directory = () => {
+    // State
     const [employees, setEmployees] = useState([])
-    const [order, setOrder] = useState([])
     const [filteredEmp, setFilteredEmp] = useState([])
 
+    // On Mount, sets State for Employees and Filtered Employees
     useEffect(() => {
         setEmployees(Ninja)
         setFilteredEmp(Ninja)
     }, [])
-    
-    useEffect(()=> {
-        console.log('employees changed')
-    },[order])
 
+    // When user types in name, filters through the employees to find employee and is returned to User
     const handleOnChange = (event) => {
-        console.log("There has been a change", event.target.value)
         const query = event.target.value;
         const queryList = employees.filter((user) => {
             console.log("object", Object.values(user))
@@ -30,18 +28,17 @@ const Directory = () => {
         setFilteredEmp(queryList) 
     }
 
+    // Once "Name" Column is clicked, arranges Employees in Alphabetical Order 
     const alphabetize = () => {
        const sortNames = [...employees]
        setFilteredEmp(sortNames.sort((a, b)=> {
             var nameA = a.name.first.toUpperCase()
             var nameB = b.name.first.toUpperCase()
-            // console.log('a', nameA)
-            // console.log('b', nameB)
             return nameA < nameB ? -1 : nameA > nameB ? 1 : 0
         }))
     }
 
-    
+    // Returns to App.js
     return(
         <>
             <Jumbotron />
